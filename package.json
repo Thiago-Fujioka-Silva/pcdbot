@@ -1,0 +1,19 @@
+{
+  "name": "chat_bot_pcd_final-",
+  "version": "1.0.0",
+  "description": "Chatbot para pcds",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thiago Fujioka Silva",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "ibm-watson": "^4.4.0",
+    "nodemon": "^1.19.1",
+    "watson-developer-cloud": "^4.0.1"
+  }
+}
